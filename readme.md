@@ -121,3 +121,4 @@ This project is submitted for the **Developer Round 1** assessment.
 **Base Paper Citation:**  
 Zou Xiao, *"Research on financial fraud detection method based on graph neural network,"*  
 Proc. SPIE 13794, *International Conference on Algorithms, Image Processing, and Deep Learning*, 2025.
+https://doi.org/10.1117/12.3078631
